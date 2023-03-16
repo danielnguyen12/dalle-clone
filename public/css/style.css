@@ -9,7 +9,7 @@
 }
 
 :root {
-  --primary-color: #f9b64d;
+  --primary-color: steelgray;
 }
 
 body {
@@ -81,6 +81,7 @@ form select {
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 1rem;
+  background-color: white;
 }
 
 form button {
